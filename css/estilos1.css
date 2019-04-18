@@ -26,19 +26,15 @@ header {
 	text-align: left;
 	text-shadow: 2px 2px #02010a;
 }
-.enlaces nav {
+.enlaces nav a{
 	margin-top: auto;
-	text-align: right;
-}
-a {
-	padding-top: 30px;
 	text-align: right;
 	color: white;
 	font-size: 26px;
 	padding-left: 50px;
 }
-a:visited{
-  text-decoration: none; !important;
+a:visited {
+  text-decoration: none;
 }
 section> .contenedor{
 	display: flex;
